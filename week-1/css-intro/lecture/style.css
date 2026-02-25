@@ -1,0 +1,23 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+/* External style */
+h1 {
+  color: blue;
+}
+
+#my-unique-id {
+  color: green;
+}
+
+.paragraph-class {
+  color: darkorange;
+  font-size: 1rem;
+}
+
+div {
+  font-size: 10px;
+}
